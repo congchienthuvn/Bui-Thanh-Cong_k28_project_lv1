@@ -1,0 +1,6 @@
+idea của em:
+1. cty nào sản xuất nhiều phim nhất 
+2. tháng ra nhiều phim nhất
+3. phim nào lỗ nặng nhất
+4. thể loại phim doanh thu trung bình cao nhất
+5. film được vote cao nhất nhưng điểm thấp nhất
