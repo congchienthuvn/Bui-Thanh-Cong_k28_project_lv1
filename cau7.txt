@@ -1,13 +1,13 @@
-Drama,4761
+Drama,4760
 Comedy,3793
-Thriller,2908
-Action,2385
+Thriller,2907
+Action,2384
 Romance,1712
 Horror,1637
 Adventure,1471
-Crime,1355
+Crime,1354
 Family,1231
-Science Fiction,1230
+Science Fiction,1229
 Fantasy,916
 Mystery,810
 Animation,699
